@@ -4,6 +4,8 @@
 
 This repository contains a Data Ethics Checklist designed for data science projects, created as part of a university assignment in the MADS SIADS593 Ethics course. The assignment required designing a pledge, oath, or checklist relevant to a professional domain, incorporating course concepts and outside research.
 
+Final document: [Data Ethics Checklist](https://github.com/busera/mads__data_science_ethics_checklist/blob/main/reports/Data%20Ethics%20Checklist%20v4.pdf)
+
 ## Project Details
 
 - **Domain**: Data Ethics in Data Science Projects
